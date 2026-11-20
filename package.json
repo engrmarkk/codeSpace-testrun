@@ -6,8 +6,8 @@
   "license": "MIT",
   "author": "Microsoft",
   "scripts": {
-    "start": "node api.js && node index.js",
-    "dev": "node api.js && nodemon"
+    "start": "node index.js",
+    "dev": "nodemon"
   },
   "dependencies": {
     "ejs": "^3.0.1",
